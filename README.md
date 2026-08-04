@@ -139,8 +139,7 @@ website-conversion-analytics-dashboard/
 ├── README.md
 ├── dashboard-preview.png
 ├── dashboard.pdf
-├── dataset/
-    └── ecommerce_user_behavior_sessions.csv
+├── ecommerce_user_behavior_sessions.csv
 ```
 
 ---
